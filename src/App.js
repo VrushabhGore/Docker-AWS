@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <p> This is  </p>
+          <p> We made a change using a seperate branch </p>
       </header>
     </div>
   );
